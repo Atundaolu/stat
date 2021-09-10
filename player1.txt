@@ -1,0 +1,4 @@
+name:ade
+age:22
+position:midfield
+address:lagos
